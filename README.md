@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-Uploading WhatsApp Video 2025-06-22 at 21.57.06_e677ca37.mp4…
 
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/e1354251-1323-4028-99ca-cae3c4c894f5)
 
 ## Getting Started
 
